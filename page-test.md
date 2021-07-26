@@ -15,8 +15,7 @@ Join us on **[Google Groups](https://groups.google.com/u/0/g/hackshackers-lagos)
 
 | **Date**  | **Highlight** |  
 |-----------|---------------|  
-| October 2020 | [Hack/Hackers Data Quest
-](https://groups.google.com/u/0/g/hackshackers-lagos/c/dpbGBTt7D-w) |
+| October 2020 | [Hack/Hackers Data Quest](https://groups.google.com/u/0/g/hackshackers-lagos/c/dpbGBTt7D-w) |
 | September 2020 | [DataQuest @ Hacks/Hackers Meet Up](https://groups.google.com/u/0/g/hackshackers-lagos/c/pOSVKwwZfQg) |   
 | August 2020 | [Solutions Journalism in Nigeria](https://twitter.com/justinarenstein/status/1230478956845060096) |
 
