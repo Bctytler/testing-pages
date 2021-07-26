@@ -1,20 +1,23 @@
+Abuja
+
 ---
-title: New Orleans
-url: groups/new-orleans
+title: Abuja
+url: groups/abuja
 ---
 
-![HacksHackers New Orleans logo](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/88185911_1209978832529559_8714623999478333440_n.png?_nc_cat=102&ccb=2&_nc_sid=e3f864&_nc_ohc=AFbYnSy1KusAX9l9lZu&_nc_ht=scontent-sea1-1.xx&oh=2f45355ea0db1d16b06b2edb71856baf&oe=60083A8D)
+![Abuja Skyline](https://upload.wikimedia.org/wikipedia/commons/9/9b/Abuja_Nightlife.jpg)
 
-We bring together "hacks" (journalists) and "hackers" (technologists) in the Crescent City!
+The worlds of hackers and journalists and activists are coming together in Nigeria
 
-Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-New-Orleans/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersNOL) and [Facebook](https://www.facebook.com/hackshackersnola/).
-
-{{< tweet id="852195727094804483" width=80% >}}
+Join us on **[Google Groups](https://groups.google.com/u/0/g/hackshackers-lagos)**. 
 
 # Past Highlights
 
 | **Date**  | **Highlight** |  
 |-----------|---------------|  
-| March 2020 | [Jazz, Beignets and Data Journalism Party](https://www.meetup.com/Hacks-Hackers-New-Orleans/events/269012606/) |
-| October 2019 | [Coffee hour with Antigravity Magazine](https://www.meetup.com/Hacks-Hackers-New-Orleans/events/265687299/) |   
-| September 2019 | [Building diversity in journalism and tech: an ONA add-on](https://www.meetup.com/Hacks-Hackers-New-Orleans/events/264346287/) |
+| October 2020 | [Hack/Hackers Data Quest
+](https://groups.google.com/u/0/g/hackshackers-lagos/c/dpbGBTt7D-w) |
+| September 2020 | [DataQuest @ Hacks/Hackers Meet Up](https://groups.google.com/u/0/g/hackshackers-lagos/c/pOSVKwwZfQg) |   
+| August 2020 | [Solutions Journalism in Nigeria](https://twitter.com/justinarenstein/status/1230478956845060096) |
+
+###### Photo from [WikiCommons](wikicommons.org).
