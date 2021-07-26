@@ -1,5 +1,3 @@
-Abuja
-
 ---
 title: Abuja
 url: groups/abuja
