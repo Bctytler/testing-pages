@@ -19,6 +19,7 @@ Join us on **[Google Groups](https://groups.google.com/u/0/g/hackshackers-lagos)
 
 ###### Photo from [WikiCommons](wikicommons.org).
 
+
 ---
 title: Africa
 url: groups/africa
