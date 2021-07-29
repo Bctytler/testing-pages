@@ -7,7 +7,7 @@ url: groups/berlin
 
 Journalism x technology in Berlin.
 
-Join us on **[Google Groups](https://groups.google.com/forum/#!forum/hhber-organisers)**. We also share our events on [Twitter](https://twitter.com/HacksHackersBER) 
+Join us on **[Google Groups](https://groups.google.com/forum/#!forum/hhber-organisers)**. We also share our events on [Twitter](https://twitter.com/HacksHackersBER). 
 
 {{< tweet id="1220053118781739008" width=80% >}}
 
