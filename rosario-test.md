@@ -15,7 +15,6 @@ Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Rosario/)**. We a
 
 | **Date**  | **Highlight** |  
 |-----------|---------------|  
-| June 2018 | [¡Arranca la temporada de Hackatones 2018!
-](https://www.meetup.com/Hacks-Hackers-Rosario/events/251301627/) |
+| June 2018 | [¡Arranca la temporada de Hackatones 2018!](https://www.meetup.com/Hacks-Hackers-Rosario/events/251301627/) |
 | April 2018 | [Primera Asamblea de HHROS Definamos juntxs los temas y proyectos para 2018](https://www.meetup.com/Hacks-Hackers-Rosario/events/248899282/) |   
 | August 2017 | [Comenzá a protegerte: kit digital de seguridad y privacidad (TALLER)](https://www.meetup.com/Hacks-Hackers-Rosario/events/242316674/) |
