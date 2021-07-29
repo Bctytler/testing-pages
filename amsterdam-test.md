@@ -9,7 +9,7 @@ Bridging the gap between hackers and journalists.
 
 Follow us on [Twitter](https://twitter.com/hackshackersams?lang=en).
 
-{{< tweet id=722337106891300866 width=80% >}}
+{{< tweet id="722337106891300866" width=80% >}}
 
 # Past Highlights
 
