@@ -3,7 +3,7 @@ title: Mendoza
 url: groups/mendoza
 ---
 
-![HacksHackers Mendoza event](https://twitter.com/HacksHackersMZA/status/799627575949541376/photo/1)
+![HacksHackers Mendoza event](https://pbs.twimg.com/media/CxjZBvKXEAAkWgp?format=jpg&name=medium)
 
 ¡Bienvenidos a la revolución del periodismo!
 
