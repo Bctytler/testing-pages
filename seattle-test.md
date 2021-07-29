@@ -5,7 +5,7 @@ url: groups/seattle
 
 ![HacksHackers Seattle event](https://secure.meetupstatic.com/photos/event/a/e/3/1/highres_22364593.jpeg)
 
-News + code + Seattle.
+News + code + Seattle!
 
 Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Seattle/)**. We also share our events on [Twitter](https://twitter.com/hackshackersSEA) and [Facebook](https://www.facebook.com/groups/1700654026876622/).
 
