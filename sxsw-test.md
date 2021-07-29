@@ -5,7 +5,7 @@ url: groups/swxsw
 
 ![HacksHackers SWxSW event](https://secure.meetupstatic.com/photos/event/8/6/0/9/highres_458734313.jpeg)
 
-Connecting journalists and technologists.
+Connecting journalists and technologists!
 
 Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-South-Wales-x-South-West/)**. We also share our events on [Twitter](https://twitter.com/hh_SWxSW) and [Facebook](https://www.facebook.com/hhswxsw).
 
