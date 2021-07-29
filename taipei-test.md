@@ -5,7 +5,7 @@ url: groups/taipei
 
 ![HacksHackers Taipei event](https://pbs.twimg.com/media/EL1YZRjU4AAyTIw?format=jpg&name=large)
 
-Journalism x technology in Taipei
+Journalism x technology in Taipei!
 
 Come visit our  **[website](https://hackshackers.taipei/)**. We also share our events on [Twitter](https://twitter.com/hackshackersTPE) and [Facebook](https://www.facebook.com/groups/868771643258752/).
 
