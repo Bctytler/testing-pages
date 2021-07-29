@@ -1,5 +1,3 @@
-Northeast England
-
 ---
 title: Northeast England
 url: groups/ne-england
