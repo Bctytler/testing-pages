@@ -5,7 +5,7 @@ url: groups/birmingham
 
 ![HacksHackers Birmingham logo](https://pbs.twimg.com/media/CQfA-OdWoAAP8XO?format=png&name=4096x4096)
 
-Meetup for people interested in using computing power to tell stories and ask questions.
+Meetup for people interested in using computing power to tell stories and ask questions!
 
 Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Birmingham/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersBHX) and [Facebook](https://www.facebook.com/HacksHackers).
 
