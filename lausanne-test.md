@@ -5,7 +5,7 @@ url: groups/lausanne
 
 ![HacksHackers Lausanne Event](https://pbs.twimg.com/media/BxQ7wq1IMAAIkgW?format=jpg&name=medium)
 
-Journalism meets technology.
+Journalism meets technology!
 
 Follow us on [Twitter](https://twitter.com/HacksHackersLsn).
 
