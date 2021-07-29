@@ -1,5 +1,3 @@
-Atlanta
-
 ---
 title: Atlanta
 url: groups/atlanta
