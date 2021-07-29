@@ -5,7 +5,7 @@ url: groups/boston
 
 ![HacksHackers Boston meetup](https://secure.meetupstatic.com/photos/event/3/2/5/2/highres_372912882.jpeg)
 
-We're bringing journalists and technology together to make things happen.
+We're bringing journalists and technology together to make things happen!
 
 Join us on **[Meetup.com](https://www.meetup.com/hackshackersboston/)**. We also share our events on [Twitter](https://twitter.com/hackshackersBOS) and [Facebook](https://www.facebook.com/pages/category/Community/HacksHackers-Boston-149985518391315/).
 
