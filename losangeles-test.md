@@ -5,7 +5,7 @@ url: groups/los-angeles
 
 ![HacksHackers Los Angeles Event](https://pbs.twimg.com/media/CURZOJxUsAADMee?format=jpg&name=medium)
 
-Bringing journalists and technologists together in Los Angeles.
+Bringing journalists and technologists together in Los Angeles!
 
 Follow us on [Twitter](https://twitter.com/hackshackersla).
 
