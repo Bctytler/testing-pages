@@ -5,7 +5,7 @@ url: groups/buenos-aires
 
 ![HacksHackers Buenos Aires dataparty banner](https://pbs.twimg.com/media/EqhoOolW8AE-riX?format=jpg&name=medium)
 
-Rebooting journalism.
+Rebooting journalism!
 
 Join us on **[Meetup.com](https://www.meetup.com/hackshackersba/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersBA?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [Facebook](https://www.facebook.com/hackshackersba/?ref=br_rs).
 
