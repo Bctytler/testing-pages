@@ -5,7 +5,7 @@ url: groups/dublin
 
 ![HacksHackers Dublin panel](https://pbs.twimg.com/media/DsjWVbxWsAANP_y?format=jpg&name=large)
 
-Bringing journalists + developers + scientists together
+Bringing journalists + developers + scientists together!
 
 Join us on **[Meetup.com](https://www.meetup.com/hacks-hackers-dublin/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersDUB).
 
