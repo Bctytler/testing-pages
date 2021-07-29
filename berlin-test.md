@@ -5,7 +5,7 @@ url: groups/berlin
 
 ![HacksHackers Berlin logo](https://pbs.twimg.com/profile_banners/618188440/1510748635/1500x500)
 
-Journalism x technology in Berlin.
+Journalism x technology in Berlin!
 
 Join us on **[Google Groups](https://groups.google.com/forum/#!forum/hhber-organisers)**. We also share our events on [Twitter](https://twitter.com/HacksHackersBER). 
 
