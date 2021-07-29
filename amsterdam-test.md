@@ -5,7 +5,7 @@ url: groups/amsterdam
 
 ![HacksHackers Amsterdam Refugeehotspot](https://pbs.twimg.com/media/CheUbBSU4AA6vX2?format=jpg&name=large)
 
-Bridging the gap between hackers and journalists.
+Bridging the gap between hackers and journalists!
 
 Follow us on [Twitter](https://twitter.com/hackshackersams?lang=en).
 
