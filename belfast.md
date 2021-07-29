@@ -7,7 +7,7 @@ url: groups/belfast
 
 A band of merry geeks that love news!
 
-Follow us on [Twitter](https://twitter.com/hhbelfast)..
+Follow us on [Twitter](https://twitter.com/hhbelfast).
 
 {{< tweet id="249833729336422401" width=80% >}}
 
