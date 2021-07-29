@@ -5,7 +5,7 @@ url: groups/brisbane
 
 ![HacksHackers Brisbane presentation](https://pbs.twimg.com/profile_banners/883295768/1489629664/1500x500)
 
-Come talk data, stories & code.
+Come talk data, stories & code!
 
 Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Brisbane/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersBNE) and [Facebook](https://www.facebook.com/HacksHackersBNE/).
 
