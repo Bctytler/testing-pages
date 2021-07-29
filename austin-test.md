@@ -5,7 +5,7 @@ url: groups/austin
 
 ![HacksHackers Austin presentation](https://pbs.twimg.com/media/D_yZJ28W4AwgfvY?format=jpg&name=large)
 
-Journalism x tech. It's a good thing.
+Journalism x tech. It's a good thing!
 
 Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Austin/)**. We also share our events on [Twitter](https://twitter.com/hackshackersatx) and [Facebook](https://www.facebook.com/HacksHackersATX/?ref=br_rs).
 
