@@ -3,7 +3,7 @@ title: Singapore
 url: groups/singapore
 ---
 
-![HacksHackers Singapore logo](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/17264990_1285636304847161_3498874872030169417_n.jpg?_nc_cat=101&ccb=2&_nc_sid=825194&_nc_ohc=xDeA-L4rX7sAX8NL97i&_nc_ht=scontent-sea1-1.xx&oh=ebb24065f594a2244d9d4ef635a71f00&oe=601846A8)
+![HacksHackers Singapore banner](https://pbs.twimg.com/profile_banners/3194842794/1489242434/1500x500)
 
 Rebooting journalism in Singapore!
 
