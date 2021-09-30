@@ -7,9 +7,7 @@ url: groups/hawaii
 
 Our mission is to create a network of journalists (“hacks”) and technologists (“hackers”) who rethink the future of news and information!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LxxNc09P-ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Read about us **[here](https://www.hawaiiweblog.com/2012/07/13/hackshackers-hawaii)**!
+Read about us **[here](https://www.hawaiiweblog.com/2012/07/13/hackshackers-hawaii)**! See one of our presentations on **[youtube](https://www.youtube.com/watch?v=LxxNc09P-ac)**.
 
 {{< tweet id="852195727094804483" width=80% >}}
 
